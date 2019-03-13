@@ -12,8 +12,6 @@
     </div>
 </template>
 <script>
-import Vue from "vue";
-import { mapActions, mapGetters } from "vuex";
 import { Navbar,Sidebar } from "./component";
 export default {
     name: 'home',
